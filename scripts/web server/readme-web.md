@@ -12,6 +12,6 @@ sudo apt install apache2
 sudo apt install neovim
 ```
 
-[Link to html]()
+[Link to html code](https://github.com/Abhinaenae/abhi-homelab/blob/main/scripts/web%20server/index.html)
 
 ![image](https://github.com/Abhinaenae/abhi-homelab/assets/92381984/e934cfa7-8c43-4bac-b48c-09497eb0d871)
