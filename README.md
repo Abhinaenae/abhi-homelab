@@ -1,2 +1,25 @@
-# abhi-homelab
-Central hub for documenting my homelab
+# Abhi's Homelab
+
+Welcome to my homelab repository! This repository serves as a central hub for documenting and managing my personal homelab setup.
+
+## Overview
+
+This homelab currently consists of solely an old desktop computer. It is now being used as a lab environment for me to learn hands-on skills in virtualization, containers, and networking.
+
+## Hardware
+
+- **CPU**: Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz
+- **Storage**: 1 TB HDD
+
+## Software & Services
+
+- **Operating System**: Ubuntu 20.04 LTS
+- **Virtualization**: Proxmox, Oracle VirtualBox
+- **Containers**: Docker, Kubernetes
+- **Automation**: Ansible, Terraform
+
+## Future Plans
+
+- Self-hosting services, such as Ubooquity, Calibre, and MusicBrainz+Headphones
+- Centralized Storage with NextCloud
+- Media Server with Plex, Emby, or Jellyfin
