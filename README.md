@@ -5,6 +5,12 @@ Welcome to my homelab repository! This repository serves as a central hub for do
 ## Overview
 
 This homelab currently consists of solely an old desktop computer. It is now being used as a lab environment for me to learn hands-on skills in virtualization, containers, and networking.
+Current Features
+  - Media Server with Jellyfin
+  - Landing Page with K8s and Docker
+  - Email Automation for system information
+
+Features are all documented in the scripts folder.
 
 ## Hardware
 
@@ -22,4 +28,3 @@ This homelab currently consists of solely an old desktop computer. It is now bei
 
 - Self-hosting services, such as Ubooquity, Calibre, and MusicBrainz+Headphones
 - Centralized Storage with NextCloud
-- Media Server with Plex, Emby, or Jellyfin
